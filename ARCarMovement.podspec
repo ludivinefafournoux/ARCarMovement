@@ -32,7 +32,7 @@ s.static_framework = true
 #s.pod_target_xcconfig = { 'OTHER_LDFLAGS' => '-ObjC' }
 
 #s.public_header_files = 'ARCarMovement/ARCarMovement/**/*.h'
-s.dependency 'GoogleMaps', '~> 2.0'
+s.dependency 'GoogleMaps', '~> 3.0'
 s.requires_arc = true
 #s.frameworks   = [
 #        "Accelerate",
